@@ -1,0 +1,1 @@
+# default-merge-commit-message-validation-action
